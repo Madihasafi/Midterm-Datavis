@@ -1,5 +1,3 @@
-# Midterm-Datavis
-
 # Flight Delay Analysis: Airline Punctuality & Airport Performance
 
 This project explores flight delay data from the Bureau of Transportation Statistics to answer two key questions:
