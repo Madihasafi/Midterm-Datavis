@@ -51,13 +51,3 @@ The analysis uses two datasets:
    - **Shortest average delay**: Fort Lauderdale (FLL) at 31.9 minutes.  
    - **Longest average delay**: Seattle (SEA) at 57.8 minutes.
 
-## 🛠️ Requirements
-
-- Python 3.8+
-- pandas
-- plotly
-- numpy
-
-Install with:
-```bash
-pip install pandas plotly numpy
