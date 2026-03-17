@@ -13,23 +13,23 @@ Using interactive Plotly visualizations, we uncover trends in delay causes over 
 
 The analysis uses two datasets:
 
-1. **Flight Delays Complete Analysis 2003–2025 Detailed.csv**  
-   Aggregated yearly data showing the percentage of delays attributed to:
+1. **Flight Delays Complete Analysis 2003–2025 Detailed.csv**
+2.  Contains airport‑level metrics:
+   - Security delays per 1,000 flights
+   - Average delay length (minutes)
+   - Airport names and codes
+
+
+3. **Flight Delays Complete Analysis 2003–2025 Detailed (1).csv** 
+  Aggregated yearly data showing the percentage of delays attributed to:
    - Air Carrier
    - Aircraft Arriving Late
    - National Aviation System
    - Security
    - Extreme Weather
    - Total Weather Share
-
-2. **Flight Delays Complete Analysis 2003–2025 Detailed (1).csv** (airport summary)  
-   Contains airport‑level metrics:
-   - Security delays per 1,000 flights
-   - Average delay length (minutes)
-   - Airport names and codes
-
+   
 ## 🔍 Analysis Steps
-
 1. **Data Cleaning**  
    - Removed empty columns and descriptive rows.  
    - Renamed columns for clarity.  
