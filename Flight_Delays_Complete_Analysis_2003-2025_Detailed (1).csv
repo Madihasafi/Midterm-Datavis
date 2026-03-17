@@ -1,0 +1,23 @@
+Year,Data_Period,Air_Carrier_Delay_Pct,Aircraft_Arriving_Late_Pct,National_Aviation_System_Pct,Security_Delay_Pct,Extreme_Weather_Pct,Weather_Total_Share_Pct,Total_Delay_Minutes,Total_Delay_Hours,Air_Carrier_Hours,Aircraft_Late_Hours,NAS_Hours,Weather_Hours,Security_Hours,Notes
+2003,Jun-Dec,30.64,38.36,24.88,0.01,6.11,49.92,,,,,,,,BTS began collecting delay cause data in June 2003
+2004,Full Year,32.58,37.04,23.49,0.0,6.89,49.65,,,,,,,,
+2005,Full Year,31.88,38.17,23.79,0.0,6.16,47.06,,,,,,,,
+2006,Full Year,29.76,40.33,24.34,0.0,5.57,44.22,,,,,,,,
+2007,Full Year,30.42,39.44,24.17,0.01,5.96,43.61,,,,,,,,
+2008,Full Year,29.4,40.63,24.07,0.01,5.89,42.71,,,,,,,,
+2009,Full Year,28.88,41.86,23.45,0.01,5.8,41.7,,,,,,,,
+2010,Full Year,29.25,41.86,23.1,0.01,5.78,40.49,,,,,,,,
+2011,Full Year,28.72,42.18,23.33,0.01,5.76,39.7,,,,,,,,
+2012,Full Year,28.12,42.29,23.82,0.01,5.76,38.47,,,,,,,,
+2013,Full Year,29.64,41.18,23.44,0.01,5.73,37.29,,,,,,,,
+2014,Full Year,30.14,40.68,23.45,0.01,5.72,36.18,,,,,,,,
+2015,Full Year,31.37,39.29,23.62,0.01,5.71,35.08,,,,,,,,
+2016,Full Year,30.91,39.77,23.61,0.01,5.7,34.01,,,,,,,,
+2017,Full Year,32.48,38.52,23.3,0.01,5.69,32.96,,,,,,,,
+2018,Full Year,33.0,37.99,23.32,0.01,5.68,31.94,,,,,,,,
+2019,Full Year,33.49,37.5,23.33,0.01,5.67,30.94,,,,,,,,
+2020,Full Year,32.01,38.65,23.67,0.0,5.67,29.96,,,,,,,,COVID-19 pandemic impact on air travel
+2021,Full Year,31.54,39.08,23.71,0.0,5.67,29.0,,,,,,,,Post-pandemic recovery period
+2022,Full Year,32.05,38.6,23.68,0.0,5.67,28.06,,,,,,,,
+2023,Full Year,31.76,38.86,23.71,0.0,5.67,27.14,,,,,,,,
+2025,Q1-Q3 (Jan-Sep),31.8,39.7,21.4,0.13,6.9,,93700000.0,1560833.0,496585.0,619661.0,334058.0,107697.0,2029.0,1.5M hours total passenger wait time; 171 years equivalent; 50% of late aircraft delays caused by carrier issues
